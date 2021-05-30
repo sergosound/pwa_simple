@@ -1,0 +1,19 @@
+{
+  "name": "pwa_simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergosound/pwa_simple.git"
+  },
+  "author": "Sergey Dirko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergosound/pwa_simple/issues"
+  },
+  "homepage": "https://github.com/sergosound/pwa_simple#readme"
+}
